@@ -1,0 +1,36 @@
+﻿@{
+    Layout = "_LayoutAdmin";
+}
+
+@model List<Advert>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            
+            <th>Title </th>
+            <th>Description </th>
+            <th>Room </th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var prd in Model)
+        {
+            <tr>
+               
+                <td>@prd.Title</td>
+                <td>@prd.Description</td>
+                <td>@prd.Room</td>
+                <td>@prd.Price</td>
+
+                @* <td>
+                    <a href="Edit/@prd.AdvertId" class="btn btn-sm btn-primary">Edit</a>
+                    <a href="Delet/@prd.AdvertId" class="btn btn-sm btn-danger">Delete</a>
+
+                </td> *@
+            </tr>
+        }
+    </tbody>
+</table>

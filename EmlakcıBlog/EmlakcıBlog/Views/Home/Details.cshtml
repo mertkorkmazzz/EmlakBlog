@@ -1,0 +1,25 @@
+﻿@model List<User>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+
+            <th>Name </th>
+            <th>Phone Number </th>
+            <th>Email </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var prd in Model)
+        {
+            <tr>
+
+                <td>@prd.UserName</td>
+                <td>@prd.PhoneNumber</td>
+                <td>@prd.Email</td> 
+            </tr>
+        }
+    </tbody>
+</table>

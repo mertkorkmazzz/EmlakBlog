@@ -1,0 +1,14 @@
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\bin\Debug\net8.0\Emlak.Services.deps.json
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\bin\Debug\net8.0\Emlak.Services.runtimeconfig.json
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\bin\Debug\net8.0\Emlak.Services.dll
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\bin\Debug\net8.0\Emlak.Services.pdb
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\Emlak.Services.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\Emlak.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\Emlak.Services.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\Emlak.Services.AssemblyInfo.cs
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\Emlak.Services.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\Emlak.Services.dll
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\refint\Emlak.Services.dll
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\Emlak.Services.pdb
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\Emlak.Services.genruntimeconfig.cache
+C:\Users\Mert\Desktop\VS projeler\EmlakcıBlog\Emlak.Services\obj\Debug\net8.0\ref\Emlak.Services.dll

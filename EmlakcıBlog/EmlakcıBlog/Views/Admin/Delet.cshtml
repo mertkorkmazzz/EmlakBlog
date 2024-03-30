@@ -1,0 +1,6 @@
+﻿@model Advert
+
+@using (Html.BeginForm("Delet", "Admin", new { id = Model.AdvertId }))
+{
+    <button type="submit" class="btn btn-danger">Sil</button>
+}
